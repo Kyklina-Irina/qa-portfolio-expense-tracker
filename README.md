@@ -55,6 +55,7 @@ Full bug reports with steps to reproduce, expected/actual results — in [GitHub
 
 - [Test Plan](docs/test_plan.md)
 - [Checklist](docs/checklist.md)
+- https://github.com/Kyklina-Irina/qa-portfolio-expense-tracker/blob/main/docs/rtm.md
 
 ## ▶️ Run locally
 
